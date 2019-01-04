@@ -19,6 +19,13 @@ Wagtail-bakery is built on top of [Django bakery](https://github.com/datadesk/dj
 * Support for generating a static API
 * Ready to use Wagtail Buildable views to build all your (un)published pages at once (no extra code required!)
 
+## Why Fork?
+
+To go over issue `Generated pages are blank when SECURE_SSL_REDIRECT is enabled`
+
+- https://github.com/wagtail/wagtail-bakery/issues/24
+- https://github.com/wagtail/wagtail-bakery/pull/25
+
 ## Installation
 
 ```
